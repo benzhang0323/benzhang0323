@@ -20,7 +20,7 @@ Computer Science undergraduate at the University of Wisconsin–Madison.
 
 **Arche**
 
-Structural modules for high-performance GPU kernels in ML workloads.
+> Structural modules for high-performance GPU kernels in ML workloads.
 
 ---
 
