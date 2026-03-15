@@ -24,16 +24,6 @@ Computer Science undergraduate at the University of Wisconsin–Madison.
 
 ---
 
-## Technical Focus
-
-| Area | Topics |
-|---|---|
-| **GPU Computing** | `Triton`, `GPU memory hierarchy`, `kernel performance analysis` |
-| **Parallel Computing** | `memory access patterns`, `performance tuning` |
-| **Machine Learning Systems** | `kernel experimentation for ML workloads` |
-
----
-
 ## GitHub Activity
 
 <p align="center">
