@@ -2,14 +2,25 @@
 
 Computer Science undergraduate at the University of Wisconsin–Madison.
 
-> Exploring the structure of computation in modern machine learning systems.
-
 ---
 
 ## Research Interests
 
 - Machine Learning Systems
-- High Performance Computing (HPC)
 - GPU Kernel Design and Optimization
-- Parallel Computing
-- LLM-Assisted Kernel Generation
+- High Performance Computing
+- Parallel and Distributed Computing
+- Efficient LLM Inference
+- Performance Modeling and Benchmarking
+
+---
+
+## Technical Focus
+
+I work primarily with:
+
+- Python
+- PyTorch
+- Triton / CUDA
+- Benchmarking and profiling tools
+- Cloud compute environments
