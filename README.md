@@ -1,26 +1,39 @@
-# Ben Zhang
+# Jiaming Zhang
 
-Computer Science undergraduate at the University of Wisconsin–Madison.
+Computer Science and Mathematics undergraduate at the University of Wisconsin–Madison.
+
+I am interested in machine learning systems, GPU computing, and efficient deployment of foundation models. My current work focuses on inference infrastructure, runtime optimization, and edge AI systems for large generative models.
 
 ---
 
 ## Research Interests
 
-- Machine Learning Systems
+- Machine Learning Systems (MLSys)
 - GPU Kernel Design and Optimization
-- High Performance Computing
-- Parallel and Distributed Computing
-- Efficient LLM Inference
-- Performance Modeling and Benchmarking
+- Efficient Foundation Model Inference
+- Runtime Systems and Compiler Optimization
+- Edge AI and Embedded Deployment
+- Parallel and High-Performance Computing
+- Performance Analysis and Benchmarking
 
 ---
 
-## Technical Focus
+## Current Research
 
-I work primarily with:
+My recent work includes:
 
-- Python
-- PyTorch
-- Triton / CUDA
-- Benchmarking and profiling tools
-- Cloud compute environments
+- Runtime optimization for world-model inference on NVIDIA Jetson AGX Orin
+- GPU profiling using NVIDIA Nsight Systems and NVTX
+- Cache-aware runtime transformations for causal convolution
+- TensorRT deployment and optimization of multimodal foundation models
+- End-to-end performance characterization of GPU inference pipelines
+
+---
+
+## Contact
+
+**Jiaming Zhang**  
+Computer Science and Mathematics  
+University of Wisconsin–Madison  
+
+Email: jzhang2789@wisc.edu
